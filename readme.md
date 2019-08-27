@@ -16,7 +16,7 @@
 
 > The strongest relationship was found to be between Borrower APR and Prosper Score for finalized loans (completed and charged_off). The Prosper score up to 5 had a median at 35% APR while after this point the APR proportionally decreased with increasing the score.
 
-> The result was achieved with income range as the median of APR started to proportionally decrease after $1-24,999 bracket. The variability was high or all brackets.
+> The result was achieved with income range as the median of APR started to proportionally decrease after $1-24,999 bracket. The variability was high for all brackets.
 
 > Charged-off loans were generally higher in borrower APR compared to completed loans. This means that Prosper was already aware of high risk borrowers.
 
