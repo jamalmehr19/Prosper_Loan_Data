@@ -6,9 +6,9 @@
 
 > The dataset contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. I will narrow my analysis on 18 variables.
 
-> The link to original dataset: https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
+> The link to original dataset: <https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv>
 
-> The description of variables in the dataset: https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing
+> The description of variables in the dataset: <https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing>
 
 > I mainly focus my analysis on the effect of variables such as Prosper Score on Borrower APR. Before starting the analysis wrangling of data is performed to clean the messy dataset and increase the accuracy of the analysis.
 
