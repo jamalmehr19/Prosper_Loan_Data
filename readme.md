@@ -1,6 +1,8 @@
-# [The Influence of Various Variables on Borrower APR in Prosper Loan Dataset](https://github.com/jamalmehr19/Prosper_Loan_Data)
-## by [Jamal Taghavimehr](https://github.com/jamalmehr19)
+# The Influence of Various Variables on Borrower APR in Prosper Loan Dataset
+## by Jamal Taghavimehr
 
+### [Click here to be redirected to my GitHub profile](https://github.com/jamalmehr19)
+### [Click here to be redirected to the repository on GitHub](https://github.com/jamalmehr19/Prosper_Loan_Data)
 
 ## Introduction
 
